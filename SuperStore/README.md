@@ -41,8 +41,3 @@ The dataset used in this notebook includes:
 
 ---
 
-## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/superstore-analysis.git
-   cd superstore-analysis
